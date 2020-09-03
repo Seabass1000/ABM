@@ -5,6 +5,4 @@ My name is Sebastian, I was born in Lima, Peru, I love to play videogames, and a
 
 # DATA 441 Assignments
 
--
--
--
+[9/21 Getting Started with R & R Studio](/ABM/9-21 Getting Started with R & R Studio)
