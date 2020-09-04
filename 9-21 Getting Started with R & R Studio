@@ -20,6 +20,8 @@ plot(x, y, type = "b", main = "The Path of a Running Boy",
      cex = 1.5)
 ```
 
+![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/The%20Path%20of%20a%20Running%20Boy.png "The Path of a Running boy")
+
 More advanced and detailed plot between X and Y
 ```
 x <- 1:100
@@ -71,6 +73,8 @@ xspline(x = dwellings[locs, 2],
 title(main="A Person's path between Homes")
 ```
 
+![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/A%20Person's%20path%20between%20Homes.png "A Persson's path Between Homes")
+
 Challenge
 ```
 text(x = dwellings[locs, ]$east, 
@@ -111,3 +115,4 @@ text(x = df[homes,2],
      labels=df[homes,1])      
 title(main = "A Person's Path between Homes")
 ```
+![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/A%20Person's%20Path%20between%20Homes%202.png "A Persson's path Between Homes")
