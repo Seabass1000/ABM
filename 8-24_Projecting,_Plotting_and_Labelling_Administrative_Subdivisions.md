@@ -69,7 +69,7 @@ sen_adm2 %>%
 ```
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/Dakar.png)
 
-## Create a larger map of Senegal with two details maps.
+## Create a larger map of Senegal with two detail maps.
 ```
 plot1 <- ggplot() +
   geom_sf(data = sen_adm1,
