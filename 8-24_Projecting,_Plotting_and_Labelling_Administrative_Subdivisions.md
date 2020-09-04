@@ -1,7 +1,7 @@
 # 8/24 Projecting, Plotting and Labelling Administrative Subdivisions
 
-Map out the administrative subdivisions of a country of your chosing.
-I chose Senegal.
+## Map out the administrative subdivisions of a country of your chosing.
+## I chose Senegal.
 ```
 library(tidyverse)
 library(sf)
@@ -45,7 +45,7 @@ ggplot() +
 ```
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/Senegal.png)
 
-Plot Dakar, Senegal's biggest county, and its districts.
+## Plot Dakar, Senegal's biggest county, and its districts.
 ```
 new_sf_obj <- sen_adm1 %>%
   filter(NAME_1 == "Dakar")
@@ -67,9 +67,9 @@ sen_adm2 %>%
   theme(plot.title = element_text(hjust = 0.5), 
         plot.subtitle = element_text(hjust = 0.5))
 ```
-Create a larger map of Senegal with two details maps.
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/Dakar.png)
 
+## Create a larger map of Senegal with two details maps.
 ```
 plot1 <- ggplot() +
   geom_sf(data = sen_adm1,
@@ -90,7 +90,7 @@ plot1 <- ggplot() +
         panel.background = element_rect(fill = "azure"),
         panel.border = element_rect(fill = NA))
 
-### Create Detail A Map
+## Create a larger map with two detailed maps.
 
 Dak <- sen_adm1 %>%
   filter(NAME_1 == "Dakar")
