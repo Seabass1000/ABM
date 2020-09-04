@@ -5,7 +5,7 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy play videogames and I ha
 
 # DATA 441 Assignments
 
-[8/21 Getting Started with R & R Studio](8-21_Getting_Started_with_R_&_R_Studio.md)
+[8/21 Getting Started with R & R Studio](9-21_Getting_Started_with_R_& R_Studio.md)
 
 [8/24 Projecting, Plotting and Labelling Administrative Subdivisions](8-24_Projecting,_Plotting_and_Labelling_Administrative_Subdivisions.md)
 
