@@ -1,4 +1,4 @@
-## 8/26 Extracting Populations from a Raster and Aggregating to each Unit
+# 8/26 Extracting Populations from a Raster and Aggregating to each Unit
 
 # Challenge
 ## Plot the population distribution of administrative subdivisions of Senegal.
