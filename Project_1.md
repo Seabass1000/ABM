@@ -34,7 +34,7 @@ between the population of Gabon's western and eastern regions.
 The 3D plot below also visualizes Senegal's population density. In addition to having a higher
 instensity on the heat map, regions are taller if they have a higher population.
 
-![alt text](https://github.com/Seabass1000/ABM/blob/master/p1.gif)
+![alt text](p1.gif)
 
 ## Defacto Descriptions of Human Settlements
 
@@ -58,10 +58,10 @@ I filtered the map to remove polygons that might be outliers (too large or too s
 populations), such as those with absurdy high or low densities and populations. I used this information
 to map the Urbanized areas in kedougou with its population densities.
 
-![alt text](https://github.com/Seabass1000/ABM/blob/master/6-urban_area_polygons_and_density.png)
+![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/6-urban_area_polygons_and_density.png)
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/5-Dfcto_urbn_sttlments_250.png)
 
-I then expanded my analysis of De Facto Urban settlements in the kedougou region by adding the district of
+I expanded my analysis of De Facto Urban settlements in the kedougou region by adding the district of
 Salaya. I repeated the steps from the kedougou plots above with Salaya and then created a model of Urbanized
 areas in the kedougou and Salaya districts.
 
