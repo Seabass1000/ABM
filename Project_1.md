@@ -28,12 +28,13 @@ between the population of Gabon's western and eastern regions.
 
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/3-P1_stretch_1.png)
 
+### Stretch goal 2: A 3-dimensional Model of the Population Density of Senegal and its Regions
+
+![alt text](https://github.com/Seabass1000/ABM/blob/master/p1.gif)
+
 ## Defacto Descriptions of Human Settlements
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/2-density.png)
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/2-sen_whole_pop19.png)
-
-## 3d Model Senegal's population density
-![alt text](https://github.com/Seabass1000/ABM/blob/master/p1.gif)
 
 ## kedougou, Senegal's most rural region
 ![alt text](https://github.com/Seabass1000/ABM/blob/master/6-urban_area_polygons_and_density.png)
