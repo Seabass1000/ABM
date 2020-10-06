@@ -30,6 +30,9 @@ between the population of Gabon's western and eastern regions.
 
 ### Stretch goal 2: A 3-dimensional Model of the Population Density of Senegal and its Regions
 
+The 3D plot below also visualizes Senegal's population density. In addition to having a higher
+instensity on the heat map, regions are taller if they have a higher population.
+
 ![alt text](https://github.com/Seabass1000/ABM/blob/master/p1.gif)
 
 ## Defacto Descriptions of Human Settlements
