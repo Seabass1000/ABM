@@ -13,11 +13,7 @@ about its development as it represents an important cultural center in West Afri
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/2-sen_whole_pop19.png)
 
 ## 3d Model Senegal's population density
-![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/3d_Senegal.PNG)
-
-<video width="320" height="240" controls>
-  <source src="4-P1_stretch_2.mp4" type="video/mp4">
-</video>
+![alt text](https://github.com/Seabass1000/ABM/blob/master/p1.gif)
 
 ## kedougou, Senegal's most rural region
 ![alt text](https://github.com/Seabass1000/ABM/blob/master/6-urban_area_polygons_and_density.png)
