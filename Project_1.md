@@ -13,7 +13,10 @@ This graphic consists of a geospatial map of Senegal and its regions with a geos
 a heatmap that indicates each region's population density; and a geometric bar plot of the percent of
 the population of Senegal that is located in each region sorted from highest to lowest.
 
-
+This graphic shows that the majority of Senegal's population is concentrated in the Dakar and Thies
+regions in the west coast where its capital, also named Dakar, and other largest cities are located
+while the east side of the country is considerably less populated with kedougou being the least
+populated region.
 
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/1-Geometric%20Bar%20Plot.png)
 
