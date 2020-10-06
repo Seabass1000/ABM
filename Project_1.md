@@ -20,6 +20,14 @@ populated region.
 
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/1-Geometric%20Bar%20Plot.png)
 
+### Stretch goal 1: A Geometric Bar Plot of the Population Distribution of Senegal's Regions and Districts
+
+This bar plot provides further information about the distribution of Sengal's population by also
+including subgroups of the district's in each region. This plot further highlights the contrast
+between the population of Gabon's western and eastern regions.
+
+![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/3-P1_stretch_1.png)
+
 ## Defacto Descriptions of Human Settlements
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/2-density.png)
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/2-sen_whole_pop19.png)
