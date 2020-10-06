@@ -1,11 +1,20 @@
 # Project 1: Modeling the population and geography of Senegal and its districts
 
-I chose to examine Senegal because it is a relatively populous developing country in West Africa.
-From research I have done I noticed that various businesses and humanitarian groups haave taken an
-interest in it due to its rapidly rising population. Therefore, I am really interested about learning
-about its development as it represents an important cultural center in West Africa.
+I chose to examine Senegal because, with a population of 16 million, it is a relatively populous
+developing country in West Africa. Furthermore, I became very interested in Senegal's development
+when I learned through my initial research that various businesses and humanitarian groups have
+taken an interest in it due to its rapidly rising population and status as a cultural center in
+West Africa. Finally, Senegal contains a sizable amount of both rural and urban areas which I
+thought could make for some insightful analysis.
 
 ## Creating a Geometric Bar Plot
+
+This graphic consists of a geospatial map of Senegal and its regions with a geospatial map containing
+a heatmap that indicates each region's population density; and a geometric bar plot of the percent of
+the population of Senegal that is located in each region sorted from highest to lowest.
+
+
+
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/1-Geometric%20Bar%20Plot.png)
 
 ## Defacto Descriptions of Human Settlements
