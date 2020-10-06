@@ -16,8 +16,8 @@ the population of Senegal that is located in each region sorted from highest to 
 This graphic shows that the majority of Senegal's population is concentrated in the Dakar and Thies
 regions in the west coast where its capital, also named Dakar, and other largest cities are located
 while the east side of the country is considerably less populated with kedougou being the least
-populated region. This makes sense especially considering that Senegal relies on its port cities
-such as Dakar for its food and main source of economic development.
+populated region. This makes considering that Senegal probably relies on its port cities its food and
+economic development.
 
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/1-Geometric%20Bar%20Plot.png)
 
@@ -43,30 +43,31 @@ region by showing the areas in which people congregate. I chose to focus my anal
 region because it is Senegal's least populated and most rural region (my research indicated that
 it is teaming with wildlife). This provided two benefits: it is computationally easier to examine
 a region with a small population and, more importanly, I wanted to examine a lesser populated rural
-area because of my belief that those areas usually get overlooked by nationally representitive surveys.
+area because those areas usually get overlooked by nationally representitive surveys.
 
 I began by first modeling the kedougou district within the kedougou region. These plots show the
 population density of kedougou. The first plot is a population raster on top of a map shapefile and
-the second uses a shapegilr it to calculate the population density with rpoint and plots this on
-top of the first plot. This paints a good picture into where people are concentrated.
+the second uses its shapefile to calculate the population density with rpoint and plots this on
+top of the first plot.
 
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/thas.png)
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/This.png)
 
-I then ploted the countour lines, lines representing the De Facto human settlements over the density image.
-I filtered the map to remove polygons that are outliers and noise, such as those with absurdy high or low
-densities and populations. I used this information to map the Urbanized areas in kedougou eith its population
-densities.
+I then ploted the countour lines, which represent the De Facto human settlements, over the density image.
+I filtered the map to remove polygons that might be outliers (too large or too small densities and
+populations), such as those with absurdy high or low densities and populations. I used this information
+to map the Urbanized areas in kedougou with its population densities.
 
 ![alt text](https://github.com/Seabass1000/ABM/blob/master/6-urban_area_polygons_and_density.png)
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/5-Dfcto_urbn_sttlments_250.png)
 
 I then expanded my analysis of De Facto Urban settlements in the kedougou region by adding the district of
-Salaya. I repeated the steps from the graphs above with Salaya and then created a model of Urbanized areas in the kedougou and Salaya districts of the kedougou region.
+Salaya. I repeated the steps from the kedougou plots above with Salaya and then created a model of Urbanized
+areas in the kedougou and Salaya districts.
 
-As can be seen below, the settlements in kedougou and Salaya are small sparsely located. This makes sense
-considering that the kedougou region is moslty plains that are teaming with wildlife. looking at my
-plots I noticed that the settlements tended to be concentrated around rivers.
+As can be seen below, the settlements in kedougou and Salaya are small and sparsely located. This makes
+sense considering that the kedougou region is moslty plains that are teaming with wildlife. looking at my
+plots, I noticed that the settlements tended to be concentrated around rivers.
 
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/7-saraya250_theonlyone.png)
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/8-combined.png)
@@ -76,7 +77,7 @@ plots I noticed that the settlements tended to be concentrated around rivers.
 Here I plotted the logs of each of my Urban Areas' population densities and rank to see if they follow
 Zipf's Law. Although, there isn't a line of best fit in this plot, it is still evident that the data 
 does not completely in line with Zip’s law because the log of the densities are above what the expected
-densities would be. This indicted that the urban settlements were a bit more densly populated than expected.
+densities would be. This indictes that the urban settlements are a bit more densly populated than expected.
 
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/Zipf.png)
 
