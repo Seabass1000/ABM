@@ -27,3 +27,6 @@ about its development as it represents an important cultural center in West Afri
 
 ## Zipf's Law
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/Zipf.png)
+
+## Public Roads and Health Care Facilities
+![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/9-Road_and_Health.png)
