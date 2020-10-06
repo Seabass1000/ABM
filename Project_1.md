@@ -36,14 +36,31 @@ instensity on the heat map, regions are taller if they have a higher population.
 ![alt text](https://github.com/Seabass1000/ABM/blob/master/p1.gif)
 
 ## Defacto Descriptions of Human Settlements
-![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/2-density.png)
-![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/2-sen_whole_pop19.png)
 
-## kedougou, Senegal's most rural region
+In this part of the project I modeled the "defacto" descriptions of human settlements in Sengal's kedougou
+region by showing the areas in which people congregate. I chose to focus my analysis to the kedougou
+region because it is Senegal's least populated and most rural region (my research indicated that
+it is teaming with wildlife). This provided two benefits: it is computationally easier to examine
+a region with a small population and, more importanly, I wanted to examine a lesser populated rural
+area because of my belief that those areas usually get overlooked by nationally representitive surveys.
+
+I began by first modeling the kedougou district within the kedougou region. These plots show the
+population density of kedougou. The first plot is a population raster on top of a map shapefile and
+the second uses a shapegilr it to calculate the population density with rpoint and plots this on
+top of the first plot. This paints a good picture into where people are concentrated.
+
+![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/thas.png)
+![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/This.png)
+
+I then ploted the countour lines, lines representing the De Facto human settlements over the density image.
+I filtered the map to remove polygons that are outliers and noise, such as those with absurdy high or low
+densities and populations. I used this information to map the Urbanized areas in kedougou eith its population
+densities.
+
 ![alt text](https://github.com/Seabass1000/ABM/blob/master/6-urban_area_polygons_and_density.png)
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/5-Dfcto_urbn_sttlments_250.png)
 
-##  Saraya, Senegal
+###  Saraya, Senegal
 ![alt text](https://raw.githubusercontent.com/Seabass1000/ABM/master/7-saraya250_theonlyone.png)
 
 ## Urbanized areas through Saraya and kedougou, Senegal
