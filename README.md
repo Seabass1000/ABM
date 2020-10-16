@@ -13,6 +13,8 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy play videogames and I ha
 
 [9/17 Data Science Insight 1](9-17_HD_and_DS_Insight.md)
 
+[10/16 Data Science Insight 2](di2.md)
+
 # Projects
 
 [Project 1](Project_1.md)
