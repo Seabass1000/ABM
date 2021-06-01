@@ -5,15 +5,18 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy play videogames and I ha
 
 # DATA 441 Assignments
 
-[8/21 Getting Started with R & R Studio](8-21_Getting_Started_with_R_&_R_Studio.md)
+[Getting Started with R & R Studio](8-21_Getting_Started_with_R_&_R_Studio.md)
 
-[8/24 Projecting, Plotting and Labelling Administrative Subdivisions](8-24_Projecting,_Plotting_and_Labelling_Administrative_Subdivisions.md)
+[Projecting, Plotting and Labelling Administrative Subdivisions](8-24_Projecting,_Plotting_and_Labelling_Administrative_Subdivisions.md)
 
-[8/26 Extracting Populations from a Raster and Aggregating to each Unit](8-25_Raster.md)
+[Extracting Populations from a Raster and Aggregating to each Unit](8-25_Raster.md)
 
-[9/17 Data Science Insight 1](9-17_HD_and_DS_Insight.md)
+[Data Science Insight 1](9-17_HD_and_DS_Insight.md)
 
-[10/16 Data Science Insight 2](di2.md)
+[Data Science Insight 2](di2.md)
+
+[Knowledge Creation 3](Knowledge_Creation_3.md)
+
 
 # Projects
 
