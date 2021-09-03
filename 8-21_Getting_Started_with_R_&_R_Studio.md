@@ -1,4 +1,4 @@
-# 9-21 Getting Started with R & R Studio
+# 9-3 Getting Started with R & R Studio
 Task: Plot an individual's path between homes
 
 Create Variables
