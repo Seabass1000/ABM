@@ -7,4 +7,6 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy playing videogames, and 
 
 [Project 1](Project_1.md)
 
+[Raster](8-25_Raster.md)
+
 # Projects
